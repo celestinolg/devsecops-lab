@@ -1,0 +1,35 @@
+HELP.md
+user-api/target/
+user-api/.mvn/wrapper/maven-wrapper.jar
+user-api/!**/src/main/**/target/
+user-api/!**/src/test/**/target/
+**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+user-api/.apt_generated
+user-api/.classpath
+user-api/.factorypath
+user-api/.project
+user-api/.settings
+user-api/.springBeans
+user-api/.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
